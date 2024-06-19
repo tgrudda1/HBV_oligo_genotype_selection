@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Grudda
+    given-names: Tanner
+    orcid: https://orcid.org/0000-0001-9045-2753
+title: "HBV_oligo_genotype_selection"
+version: 1.0
+doi: 
+date-released: 2024-06-19
